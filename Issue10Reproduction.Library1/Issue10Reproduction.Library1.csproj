@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Issue10Reproduction.Library2\Issue10Reproduction.Library2.csproj" />
+  </ItemGroup>
+
+</Project>
